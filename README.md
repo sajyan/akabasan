@@ -9,8 +9,8 @@
     <meta http-equiv="Expires" content="0">
 
     <title>赤羽さん、ご逝去</title>
-    <link rel="stylesheet"index.css">
-    <link rel="stylesheet"slide.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="slide.css">
     <script src="jquery.min.js.ダウンロード"></script>
 
     <!-- 粉雪 -->
