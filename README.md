@@ -1,5 +1,4 @@
 
-
 <!--DOCTYPE html-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,7 +8,7 @@
     <meta http-equiv="Cache-Control" content="no-cache">
     <meta http-equiv="Expires" content="0">
 
-    <title>CIMS Download</title>
+    <title>赤羽さん、ご逝去</title>
     <link rel="stylesheet" href="https://github.com/torokoid/konayuki/blob/main/index.css">
     <link rel="stylesheet" href="https://github.com/torokoid/konayuki/blob/main/slide.css">
     <script src="https://github.com/torokoid/konayuki/blob/main/jquery.min.js.ダウンロード"></script>
@@ -19,7 +18,7 @@
     
 
     <!-- 文字落 -->
-    <!-- <script type="text/javascript" src="foledwn.js"></script>
+    <!-- <script type="text/javascript" src="https://github.com/torokoid/konayuki/blob/main/foledwn.js"></script>
       <script type="text/javascript">
           $(document).ready(function () {
               new Foler('fffff1').start();
