@@ -32,12 +32,12 @@
     <h2 class="midasi1">
         <span>A</span>
         <span>K</span>
+        <span>A</span>
         <span>B</span>
         <span>A&nbsp;</span>
         <span>S</span>
         <span>A</span>
         <span>N</span>
-
     </h2>
     
 
