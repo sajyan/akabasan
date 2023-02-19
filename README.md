@@ -1,4 +1,4 @@
-# akabasan
+
 
 <!--DOCTYPE html-->
 
@@ -30,16 +30,17 @@
 </head>
 <body>
     <h2 class="midasi1">
-        <span>A</span>
-        <span>K</span>
-        <span>A</span>
-        <span>B</span>
-        <span>A&nbsp;</span>
-        <span>S</span>
-        <span>A</span>
-        <span>N</span>
+        <span>赤</span>
+        <span>羽</span>
+        <span>さ</span>
+        <span>ん&nbsp;</span>
+        <span>ご</span>
+        <span>逝</span>
+        <span>去</span>
     </h2>
     
+ <p>・１５班、赤羽さんのおじいちゃんがご逝去されました。<br>
+ ・葬儀は家族葬で執り行うとの事です。</p>
 
 
 
