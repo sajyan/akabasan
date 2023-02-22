@@ -28,14 +28,14 @@
 </head>
 <body>
     <h2 class="midasi1">
+        <span>A</span>
         <span>K</span>
-        <span>O</span>
-        <span>N</span>
+        <span>A</span>
+        <span>B</span>
         <span>A&nbsp;</span>
-        <span>Y</span>
-        <span>U</span>
-        <span>K</span>
-        <span>I</span>
+        <span>S</span>
+        <span>A</span>
+        <span>N</span>
     </h2>
     
 
